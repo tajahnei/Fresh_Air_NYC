@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 2105 NYC Air Quality Analysis Dashboard
+
+# 2015 NYC Air Quality Analysis Dashboard
 Flask web application that shows if air quality differs significantly among neighborhoods.
 
 
@@ -74,10 +74,10 @@ NYC Million Trees Project
 https://www.milliontreesnyc.org/html/about/about.shtml
 
 =======
-# Fresh-Air-For-NYCs-Youngest-Residents
+
 
 ## Contributors
 - [Thomas Tavares](https://github.com/tomtav)
 - [Shiuli Ganguly](https://github.com/gangulyshiuli)
 - [TajahneiWilliams](https://github.com/tajahnei)
->>>>>>> 8e572575a0195220d79f5f062ba8798bd76f21df
+
